@@ -300,7 +300,7 @@
           },
           "title2": "JORGE",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CONOCE SU HISTORIA</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CONOCE SU HISTORIA</a>",
           "media3": {
             "image": {
               "active": true,
