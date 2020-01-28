@@ -62,19 +62,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-346x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-346x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "index.html#header4-1",
               "size": 0,
               "newWindow": false
             }
@@ -543,16 +544,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-346x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-346x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "index.html#header4-1",
               "size": 0,
               "linkInNewWindow": false,
               "name": "mobirise",
@@ -721,16 +723,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-346x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-346x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "index.html#header4-1",
               "size": 0,
               "linkInNewWindow": false,
               "name": "mobirise",
@@ -902,16 +905,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-346x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-346x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "index.html#header4-1",
               "size": 0,
               "linkInNewWindow": false,
               "name": "mobirise",
@@ -1083,16 +1087,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-346x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-346x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "index.html#header4-1",
               "size": 0,
               "linkInNewWindow": false,
               "name": "mobirise",
@@ -1264,16 +1269,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-346x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-346x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "index.html#header4-1",
               "size": 0,
               "linkInNewWindow": false,
               "name": "mobirise",
