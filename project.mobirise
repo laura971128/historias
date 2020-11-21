@@ -39,7 +39,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#efefef"
+              "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
               "font-family": "'Lato', sans-serif",
@@ -55,7 +55,7 @@
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
-            "hamburgerColor": "#efefef"
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-1\">INICIO</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2d\">SOBRE MI</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2e\">PROYECTO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content4-h\"><span class=\"mbrib-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 16px;\"></span>HISTORIAS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-25\">COMPARTE TU HISTORIA</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/15WVw6SXZmLblT6SmQqLiEUUHy5DmHl0s?usp=sharing\" data-toolbar=\"-mbrBtnMove\">VISITA LA EXPOSICIÓN</a></li>",
@@ -568,7 +568,7 @@
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
-            "hamburgerColor": "#efefef"
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-1\">INICIO</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2d\">SOBRE MI</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2e\">PROYECTO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content4-h\"><span class=\"mbrib-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 16px;\"></span>HISTORIAS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-25\">COMPARTE TU HISTORIA</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/15WVw6SXZmLblT6SmQqLiEUUHy5DmHl0s?usp=sharing\" data-toolbar=\"-mbrBtnMove\">VISITA LA EXPOSICIÓN</a></li>",
@@ -833,7 +833,7 @@
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
-            "hamburgerColor": "#efefef"
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-1\">INICIO</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2d\">SOBRE MI</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2e\">PROYECTO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content4-h\"><span class=\"mbrib-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 16px;\"></span>HISTORIAS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-25\">COMPARTE TU HISTORIA</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/15WVw6SXZmLblT6SmQqLiEUUHy5DmHl0s?usp=sharing\" data-toolbar=\"-mbrBtnMove\">VISITA LA EXPOSICIÓN</a></li>",
@@ -1260,7 +1260,7 @@
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
-            "hamburgerColor": "#efefef"
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-1\">INICIO</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2d\">SOBRE MI</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2e\">PROYECTO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content4-h\"><span class=\"mbrib-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 16px;\"></span>HISTORIAS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-25\">COMPARTE TU HISTORIA</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/15WVw6SXZmLblT6SmQqLiEUUHy5DmHl0s?usp=sharing\" data-toolbar=\"-mbrBtnMove\">VISITA LA EXPOSICIÓN</a></li>",
@@ -1465,7 +1465,7 @@
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
-            "hamburgerColor": "#efefef"
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-1\">INICIO</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2d\">SOBRE MI</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2e\">PROYECTO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content4-h\"><span class=\"mbrib-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 16px;\"></span>HISTORIAS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-25\">COMPARTE TU HISTORIA</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/15WVw6SXZmLblT6SmQqLiEUUHy5DmHl0s?usp=sharing\" data-toolbar=\"-mbrBtnMove\">VISITA LA EXPOSICIÓN</a></li>",
@@ -1804,7 +1804,7 @@
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
-            "hamburgerColor": "#efefef"
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-1\">INICIO</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2d\">SOBRE MI</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-2e\">PROYECTO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content4-h\"><span class=\"mbrib-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 16px;\"></span>HISTORIAS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-25\">COMPARTE TU HISTORIA</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/15WVw6SXZmLblT6SmQqLiEUUHy5DmHl0s?usp=sharing\" data-toolbar=\"-mbrBtnMove\">VISITA LA EXPOSICIÓN</a></li>",
